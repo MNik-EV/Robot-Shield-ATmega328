@@ -1,0 +1,17 @@
+.# Altium Designer
+History
+Project Outputs for*
+*.log
+*.SchBkp
+*.PcbBkp
+*.PrjBkp
+*.Dfm
+*.Ldp
+*.Smd
+*.cmp
+*.err
+*.rep
+*.__i
+*.sso
+*.~*
+VCS*.*
