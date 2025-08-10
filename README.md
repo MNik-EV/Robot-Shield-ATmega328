@@ -1,6 +1,6 @@
 # Robot Shield - ATmega328P Controller
 
-This repository contains the design files for a comprehensive robot controller shield based on the ATmega328P microcontroller. This board was designed as part of the ZLAB technical assessment process.
+This repository contains the design files for a  robot controller shield based on the ATmega328P microcontroller.
 
 ![Isometric board view](Images/Isometric_View_3D.png)
 
