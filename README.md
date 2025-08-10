@@ -8,20 +8,19 @@ This board integrates robust power protection, dual battery monitoring, multiple
 
 ---
 
-## 🚀 Board Renders
+## 🚀 Main Board Render
 
-| **Top View** | **Isometric View** | **Bottom View** |
-|:---:|:---:|:---:|
-| <img src="Images/Top_View_3D.png" width="250"/> | <img src="Images/Isometric_View_3D.png" width="250"/> | <img src="Images/Bottom_View_3D.png" width="250"/> |
+<p align="center">
+  <img src="Images/Isometric_View_3D.png" width="600"/>
+</p>
 
 ---
 
-## 📋 Table of Contents
-- [Features & Specifications](#-features--specifications)
-- [Schematics](#-schematics)
-- [PCB Layout](#-pcb-layout)
-- [File Structure](#-file-structure)
-- [License](#-license)
+## 🖼 Additional Views
+
+| **Top View** | **Bottom View** |
+|:---:|:---:|
+| <img src="Images/Top_View_3D.png" width="300"/> | <img src="Images/Bottom_View_3D.png" width="300"/> |
 
 ---
 
@@ -57,15 +56,16 @@ This board integrates robust power protection, dual battery monitoring, multiple
 | **Top Layer** | **Bottom Layer** |
 |:---:|:---:|
 | <img src="Images/PCB_Top_Layer.png" width="350"/> | <img src="Images/PCB_Bottom_Layer.png" width="350"/> |
+---
+## 📦Robot Shield – ATmega328P Controller
+ ┣ 📂Altium_Project
+ ┃ ┣ 📂robotShield.PcbDoc
+ ┃ ┣ 📂robotShield.PrjPcb
+ ┃ ┗ 📂robotShield.SchDoc
+ ┣ 📂Images
+ ┣ 📜.gitignore
+ ┣ 📜README.md
+ ┣ 📜LICENSE
+ ┗ 📜Schematics.pdf
 
 ---
-
-## 📂 File Structure
-/Altium_Project
-├── .PrjPcb # Main Altium project file
-├── *.SchDoc # Schematic files
-├── *.PcbDoc # PCB layout file
-/Images
-├── *.png # All images used in README
-LICENSE
-README.md
