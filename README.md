@@ -25,23 +25,17 @@ This repository contains the design files for a comprehensive robot controller s
 
 ---
 
-##  Schematics
+## ⚡ Schematics
 
-The schematic design is modular to simplify understanding and debugging.
+The schematic design is modular to simplify understanding and debugging. Click on any image to view it in full size.
 
-**Power Supply Section:**
-!
-
-[Image of the power supply schematic]
-(Images/Schematic_Power.png)
-
-**MCU & Peripherals:**
-!
-
-[Image of the MCU schematic]
-(Images/Schematic_MCU.png)
-
-*(...add the rest of your schematic images here...)*
+| Power Supply System | Microcontroller (MCU) & Core |
+| :---: | :---: |
+| [![Power Supply Schematic](Images/Schematic_Power.png)](Images/Schematic_Power.png) | [![MCU Schematic](Images/Schematic_MCU.png)](Images/Schematic_MCU.png) |
+| **CP2102 (USB-to-UART)** | **Push-Buttons** |
+| [![CP2102 Schematic](Images/Schematic_CP2102.png)](Images/Schematic_CP2102.png) | [![Push-Buttons Schematic](Images/Schematic_PushButtons.png)](Images/Schematic_PushButtons.png) |
+| **OLED & Buzzer Interfaces** | **Battery Fuel Gauge System** |
+| [![OLED and Buzzer Schematic](Images/Schematic_OLED_Buzzer.png)](Images/Schematic_OLED_Buzzer.png) | [![Battery Gauge Schematic](Images/Schematic_BatteryGauge.png)](Images/Schematic_BatteryGauge.png) |
 
 ---
 
@@ -61,7 +55,6 @@ The PCB is a two-layer design that utilizes ground planes on both layers and via
 ## 📂 File Structure
 
 * **/Altium_Project:** Contains the main Altium project files (`.PcbDoc`, `.SchDoc`, `.PrjPcb`).
-* **/Gerber:** Contains the Gerber files for manufacturing the board.
 * **/Images:** Contains all images used in this README.
 
 ##  License
