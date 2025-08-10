@@ -85,7 +85,7 @@
 |:---|:---|:---|
 | **🧠 Microcontroller** | ATmega328P | 16MHz, 32KB Flash, 2KB SRAM, 1KB EEPROM |
 | **🔌 Programming** | CP2102 USB-to-UART | Auto-reset, 3.3V/5V compatible |
-| **⚡ Power Input** | 7-12V DC | Reverse polarity protected |
+| **⚡ Power Input** | 7-16V DC | Reverse polarity protected |
 | **🔋 Power Output** | 5V @ 1A, 3.3V @ 300mA | Regulated, filtered |
 | **🛡️ Protection** | PTC Fuse, TVS Diode | Overcurrent & overvoltage |
 | **📱 Display** | 0.96" OLED | 128x64, I²C (SSD1306) |
