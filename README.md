@@ -6,7 +6,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/MNik-EV/Robot-Shield-ATmega328)](https://github.com/MNik-EV/Robot-Shield-ATmega328/commits/main)
 [![Arduino Compatible](https://img.shields.io/badge/Arduino-Compatible-green.svg)](https://www.arduino.cc/)
 [![ATmega328P](https://img.shields.io/badge/MCU-ATmega328P-orange.svg)](https://www.microchip.com/)
-[![PCB Design](https://img.shields.io/badge/PCB-KiCad-blue.svg)](https://www.kicad.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Hardware-red.svg)](https://www.oshwa.org/)
 
 **🔥 Professional-Grade Open Source Robot Controller Shield 🔥**
@@ -42,7 +41,6 @@
 - **Educational Robotics Projects**
 - **DIY Robot Controllers**
 - **Prototype Development**
-- **STEM Learning**
 - **Maker Projects**
 - **Arduino Shield Applications**
 
@@ -60,8 +58,7 @@
 - **PTC Resettable Fuse** - Overcurrent protection
 - **TVS Diode** - Voltage spike protection  
 - **Reverse Polarity Protection** - Prevents damage from wrong connections
-- **EMI/EMC Compliant Design**
-
+- 
 ### 🔋 **Dual Battery Monitoring**
 - **LM3914 LED Bar Graph** - Visual battery level indicator (10 LEDs)
 - **MAX17043 Digital Fuel Gauge** - Precise I²C battery monitoring
